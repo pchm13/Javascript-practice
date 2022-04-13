@@ -13,6 +13,7 @@ button {
   border-radius: 16px;
   border: none;
   padding: 4px 16px;
+  margin-left: 8px;
 }
 
 button:hover {
@@ -62,4 +63,5 @@ p {
 .list-row {
   display: flex;
   align-items: center;
+  margin-bottom: 8px;
 }
